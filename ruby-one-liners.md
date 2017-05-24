@@ -1,4 +1,4 @@
-### Ruby one-liners
+## Ruby one-liners
 
 ### Some fun stuff
 ```
@@ -46,7 +46,7 @@ $ ruby -e 'puts ARGF.read.strip.inspect' ~/.ssh/devtools_geix_rsa
 ```
 
 
-# Reviewing log data, extract event counts
+### Reviewing log data, extract event counts
 
 Output top 15 lines (url only) grouped by url from data
 
